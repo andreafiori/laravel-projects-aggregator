@@ -21,9 +21,10 @@ Watching CSS changes:
 
 ## TODO
 
-- Docker?
-- Layout and SEO meta tags
-- Stisla theme in the frontend?
+- Docker with env variables from file: https://docs.docker.com/compose/environment-variables/
+- SEO meta tags
+- Stisla theme in the frontend
+- API: packagist, flickr, gmaps etc.
 - Seeders https://github.com/Stroemgren/Laravel-Country-Seed
 - Factory
 - Country submit button and validation
@@ -32,5 +33,6 @@ Watching CSS changes:
 - Website with more sample: market trade, flickr, daft.ie
 - PHP quizzes?!
 - Scoket.io, CKEditor, blog post
-- Deploy
+- Deploy on Heroku or other platform
+- Tests and Travis CI
 - Other tutorials: https://www.tutsmake.com/category/laravel-tutorial/
